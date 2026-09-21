@@ -6,10 +6,10 @@
   <strong>Məhsuldarlığı qoruyan, zərərvericiləri aşkarlayan və fermerləri gücləndirən tam spektrli kənd təsərrüfatı texnologiyası.</strong>
   <br/><br/>
   
-  [![Vercel Deployment](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://guardian-x.vercel.app)
+  [![Vercel Deployment](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://guardian-x-web.vercel.app/)
   [![Built with Next.js](https://img.shields.io/badge/Built%20with-Next.js%2014-000000?style=for-the-badge&logo=nextdotjs)](https://nextjs.org)
   [![Tailwind CSS](https://img.shields.io/badge/Styled%20with-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com)
-  [![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen?style=for-the-badge)](https://github.com/)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge)](LICENSE)
 </div>
 
 ---
